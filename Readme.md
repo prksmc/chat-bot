@@ -1,5 +1,6 @@
 ## Project setup
 ### 1. Setup virtual environment
+(python version == 3.10.8)
 ```bash
 python3 -m venv .venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
