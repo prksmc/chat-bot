@@ -14,4 +14,13 @@ pip install -r requirements.txt
 ### 3: run project
 ```
 uvicorn main:app --reload 
+
+or
+
+fastapi dev main.py
+```
+
+### 4: Swagger ui
+```
+http://localhost:8000/docs
 ```
